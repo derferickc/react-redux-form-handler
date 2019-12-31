@@ -7,7 +7,7 @@
 <a href="https://github.com/zalmoxisus/redux-devtools-extension">
 	<p>Documentation for the Redux DevTools Extension</p>
 </a>
-<a href="https://github.com/zalmoxisus/redux-devtools-extension">
+<a href="https://jsonplaceholder.typicode.com/">
 	<p>Documentation for JSONPlaceholder</p>
 </a>
 
