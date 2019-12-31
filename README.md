@@ -5,10 +5,10 @@
 > Technology used: React, Redux, API, HTML5, CSS3, ES6, Redux DevTools Extension
 
 <a href="https://github.com/zalmoxisus/redux-devtools-extension">
-	<p>Documentation for the Redux DevTools Extension: Redux DevTools Extension</p>
+	<p>Documentation for the Redux DevTools Extension</p>
 </a>
 <a href="https://github.com/zalmoxisus/redux-devtools-extension">
-	<p>Documentation for JSONPlaceholder: JSONPlaceholder</p>
+	<p>Documentation for JSONPlaceholder</p>
 </a>
 
 ---
